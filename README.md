@@ -1,7 +1,11 @@
 # OCT-layer-segmentation: Segmentation of intra-retinal tissue layers in OCT B-scans
-Author: Arunava Chakravarty 
+Author: Arunava Chakravarty
+
 Supervisor: Prof. Jayanthi Sivaswamy
+
 Center for Visual Information Technology, IIIT-Hyderabad (https://cvit.iiit.ac.in/projects/mip/)
+
+
 
 We have developed a Conditional Random Field (CRF) based Joint Multi-layer segmentation algorithm for retinal OCT segmentation. The CRF is learned in an end-to-end manner using Structured Prediction. The test code along with the trained models for all experiments in the above paper is being released publicly to allow other researchers to develop, compare and benchmark their algorithms. This code is not clinically approved and released for non-commerical research purposes only. Further details are available in the Readme.txt file within the downloadable zip file.
 
